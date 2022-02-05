@@ -47,11 +47,48 @@ A list of daily assignments **will be** provided at intervals. There will be occ
 
 Grading is weighted as follows:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Reports | 45% |
-| Tests | 40% |
-| Class Performance | 15% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Reports
+{{< tdclose >}}
+{{< tdopen >}}
+45%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Tests
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Performance
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Class performance is evaluated on the basis of preparedness, homework, and participation. Other factors may come in to play in assigning a final grade, e.g.: improvement versus stagnation over the course of the semester, and progress relative to starting level. Quizzes or tests missed without written excuse cannot be made up. Attendance and promptness is assumed; more than 4 unexcused absences (a week's worth) lowers your grade one letter; persistent tardiness will also add up to absences.
 
@@ -79,81 +116,812 @@ Below are three tables:
 *   the second breaks down the components of the main text used, _Learning Chinese (Part 4)_;
 *   and the third lists the sections of the Chinese menu.
 
-| DAY # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Part 1**{{< /td-colspan >}} |||
-| 1-8 |  {{< br >}}{{< br >}} Review of Chinese III {{< br >}}{{< br >}} Unit 11 (11.1-11.4) {{< br >}}{{< br >}} _Making Connections_ (Chapters 1-2) {{< br >}}{{< br >}} _Strange Stories from a Chinese Studio_ (Chapters 1-2) {{< br >}}{{< br >}}  | Test 1 on Day #8 |
-| {{< td-colspan 3 >}}**Part 2**{{< /td-colspan >}} |||
-| 9-18 |  {{< br >}}{{< br >}} Unit 11 (11.5-11.7) {{< br >}}{{< br >}} _Making Connections_ (Chapters 3-8) {{< br >}}{{< br >}} _Strange Stories from a Chinese Studio_ (Chapters 3-5) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Presentations during Day #15-17 {{< br >}}{{< br >}} Test 2 on Day #18 {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Part 3**{{< /td-colspan >}} |||
-| 19-30 |  {{< br >}}{{< br >}} Until 11 (11.8-11.10) {{< br >}}{{< br >}} Unit 12 (12.1-12.3) {{< br >}}{{< br >}} _Making Connections_ (Chapters 9-13) {{< br >}}{{< br >}} _Strange Stories from a Chinese Studio_ (Chapters 6-10) {{< br >}}{{< br >}}  | Test 3 on Day #30 |
-| {{< td-colspan 3 >}}**Part 4**{{< /td-colspan >}} |||
-| 31-40 |  {{< br >}}{{< br >}} Unit 12 (12.4-12.6) {{< br >}}{{< br >}} _Making Connections_ (Chapters 14-16) {{< br >}}{{< br >}} _Strange Stories from a Chinese Studio_ (Chapter 11-14) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Presentations during Day #37-39 {{< br >}}{{< br >}} Test 4 on Day #40 {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Part 5**{{< /td-colspan >}} |||
-| 41-52 |  {{< br >}}{{< br >}} Unit 12 (12.7-12.10) {{< br >}}{{< br >}} _Making Connections_ (Chapter 17-23) {{< br >}}{{< br >}} _Strange Stories from a Chinese Studio_ (Chapters 15-18) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Presentations during Day #50-52 {{< br >}}{{< br >}} Test 5 on Day #46 {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+DAY #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part 1**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1-8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Review of Chinese III
+
+Unit 11 (11.1-11.4)
+
+_Making Connections_ (Chapters 1-2)
+
+_Strange Stories from a Chinese Studio_ (Chapters 1-2)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Test 1 on Day #8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part 2**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9-18
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Unit 11 (11.5-11.7)
+
+_Making Connections_ (Chapters 3-8)
+
+_Strange Stories from a Chinese Studio_ (Chapters 3-5)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Presentations during Day #15-17
+
+Test 2 on Day #18
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part 3**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19-30
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Until 11 (11.8-11.10)
+
+Unit 12 (12.1-12.3)
+
+_Making Connections_ (Chapters 9-13)
+
+_Strange Stories from a Chinese Studio_ (Chapters 6-10)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Test 3 on Day #30
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part 4**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+31-40
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Unit 12 (12.4-12.6)
+
+_Making Connections_ (Chapters 14-16)
+
+_Strange Stories from a Chinese Studio_ (Chapter 11-14)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Presentations during Day #37-39
+
+Test 4 on Day #40
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part 5**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+41-52
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Unit 12 (12.7-12.10)
+
+_Making Connections_ (Chapter 17-23)
+
+_Strange Stories from a Chinese Studio_ (Chapters 15-18)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Presentations during Day #50-52
+
+Test 5 on Day #46
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Learning Chinese (Part 4)
 -------------------------
 
 Please refer to [readings]({{< baseurl >}}/pages/readings) and [study materials]({{< baseurl >}}/pages/study-materials) for the necessary texts and audio files, respectively.
 
-| UNITS | TITLES | EXERCISES | AUDIO FILES |
-| --- | --- | --- | --- |
-| {{< td-colspan 4 >}}**Unit 11**{{< /td-colspan >}} ||||
-| 11.1 | Constructions with yi "one" {{< br >}}{{< br >}} 11.1.2 yī + Verbs {{< br >}}{{< br >}} 11.1.3 yī + Nouns {{< br >}}{{< br >}}  | &nbsp; |
-| 11.2 | Places to see in Beijing (A Dialogue) | Ex. 1 | 11.2 |
-| 11.3 |  {{< br >}}{{< br >}} Requests {{< br >}}{{< br >}} 11.3.1 Mild Requests {{< br >}}{{< br >}} 11.3.2 More Imposing Request {{< br >}}{{< br >}} 11.3.3 Requests with Implied Criticism; Complaints {{< br >}}{{< br >}}  | Ex. 2 | &nbsp; |
-| 11.4 | A Geography Lesson | Ex. 3a, b, c | 11.4 |
-| 11.5 | Following a Recipe | Ex. 4 | &nbsp; |
-| 11.6 | Xuéxí Hànzì | Ex. 5a, b, c, d | 11.6 |
-| 11.7 | Australia | Ex. 6a, b | 11.7 |
-| 11.8 | To Yangzhou By Way of Zhenjiang | Ex. 7 | 11.8 |
-| 11.9 | Confrontation (1) | &nbsp; |
-| 11.10 | Rhymes and Rhythms | &nbsp; |
-| {{< td-colspan 4 >}}**Unit 12**{{< /td-colspan >}} ||||
-| 12.1 | Taking Photographs | Ex. 1 | &nbsp; |
-| 12.2 | Mei Taide: The Story | Ex. 2a, b, c | 12.2 |
-| 12.3 | The Tian'anmen Incident | Ex. 3 | 12.3 |
-| 12.4 | Kinship | Ex. 4a, b, c | 12.4 |
-| 12.5 | Death | Ex. 5 | &nbsp; |
-| 12.6 | The Chinese School System | Ex. 6a, b | 12.6 |
-| 12.7 | Life in Tianjin | Ex. 7a, b | 12.7 |
-| 12.8 |  {{< br >}}{{< br >}} Manner Adverbials {{< br >}}{{< br >}} 12.8.1 Reduplication and The Adverbial Marker -de {{< br >}}{{< br >}} 12.8.2 Manner Adverbials vs. Predicate Complements {{< br >}}{{< br >}} 12.8.3 The Three "de's" {{< br >}}{{< br >}} 12.4 A Vivid Event (Dialogue) {{< br >}}{{< br >}}  | &nbsp; |
-| 12.9 |  {{< br >}}{{< br >}} Confrontation (2) (Dialogue) {{< br >}}{{< br >}} 12.9.1 Expletives and Swearwords {{< br >}}{{< br >}} 12.9.2 Dialogue {{< br >}}{{< br >}}  | &nbsp; |
-| 12.10 | The Northwind and The Sun | &nbsp; |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+UNITS
+{{< thclose >}}
+{{< thopen >}}
+TITLES
+{{< thclose >}}
+{{< thopen >}}
+EXERCISES
+{{< thclose >}}
+{{< thopen >}}
+AUDIO FILES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Unit 11**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11.1
+{{< tdclose >}}
+{{< tdopen >}}
+Constructions with yi "one"
+
+11.1.2 yī + Verbs
+
+11.1.3 yī + Nouns
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11.2
+{{< tdclose >}}
+{{< tdopen >}}
+Places to see in Beijing (A Dialogue)
+{{< tdclose >}}
+{{< tdopen >}}
+Ex. 1
+{{< tdclose >}}
+{{< tdopen >}}
+11.2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11.3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Requests
+
+11.3.1 Mild Requests
+
+11.3.2 More Imposing Request
+
+11.3.3 Requests with Implied Criticism; Complaints
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Ex. 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11.4
+{{< tdclose >}}
+{{< tdopen >}}
+A Geography Lesson
+{{< tdclose >}}
+{{< tdopen >}}
+Ex. 3a, b, c
+{{< tdclose >}}
+{{< tdopen >}}
+11.4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11.5
+{{< tdclose >}}
+{{< tdopen >}}
+Following a Recipe
+{{< tdclose >}}
+{{< tdopen >}}
+Ex. 4
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11.6
+{{< tdclose >}}
+{{< tdopen >}}
+Xuéxí Hànzì
+{{< tdclose >}}
+{{< tdopen >}}
+Ex. 5a, b, c, d
+{{< tdclose >}}
+{{< tdopen >}}
+11.6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11.7
+{{< tdclose >}}
+{{< tdopen >}}
+Australia
+{{< tdclose >}}
+{{< tdopen >}}
+Ex. 6a, b
+{{< tdclose >}}
+{{< tdopen >}}
+11.7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11.8
+{{< tdclose >}}
+{{< tdopen >}}
+To Yangzhou By Way of Zhenjiang
+{{< tdclose >}}
+{{< tdopen >}}
+Ex. 7
+{{< tdclose >}}
+{{< tdopen >}}
+11.8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11.9
+{{< tdclose >}}
+{{< tdopen >}}
+Confrontation (1)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11.10
+{{< tdclose >}}
+{{< tdopen >}}
+Rhymes and Rhythms
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Unit 12**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12.1
+{{< tdclose >}}
+{{< tdopen >}}
+Taking Photographs
+{{< tdclose >}}
+{{< tdopen >}}
+Ex. 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12.2
+{{< tdclose >}}
+{{< tdopen >}}
+Mei Taide: The Story
+{{< tdclose >}}
+{{< tdopen >}}
+Ex. 2a, b, c
+{{< tdclose >}}
+{{< tdopen >}}
+12.2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12.3
+{{< tdclose >}}
+{{< tdopen >}}
+The Tian'anmen Incident
+{{< tdclose >}}
+{{< tdopen >}}
+Ex. 3
+{{< tdclose >}}
+{{< tdopen >}}
+12.3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12.4
+{{< tdclose >}}
+{{< tdopen >}}
+Kinship
+{{< tdclose >}}
+{{< tdopen >}}
+Ex. 4a, b, c
+{{< tdclose >}}
+{{< tdopen >}}
+12.4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12.5
+{{< tdclose >}}
+{{< tdopen >}}
+Death
+{{< tdclose >}}
+{{< tdopen >}}
+Ex. 5
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12.6
+{{< tdclose >}}
+{{< tdopen >}}
+The Chinese School System
+{{< tdclose >}}
+{{< tdopen >}}
+Ex. 6a, b
+{{< tdclose >}}
+{{< tdopen >}}
+12.6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12.7
+{{< tdclose >}}
+{{< tdopen >}}
+Life in Tianjin
+{{< tdclose >}}
+{{< tdopen >}}
+Ex. 7a, b
+{{< tdclose >}}
+{{< tdopen >}}
+12.7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12.8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Manner Adverbials
+
+12.8.1 Reduplication and The Adverbial Marker -de
+
+12.8.2 Manner Adverbials vs. Predicate Complements
+
+12.8.3 The Three "de's"
+
+12.4 A Vivid Event (Dialogue)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12.9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Confrontation (2) (Dialogue)
+
+12.9.1 Expletives and Swearwords
+
+12.9.2 Dialogue
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12.10
+{{< tdclose >}}
+{{< tdopen >}}
+The Northwind and The Sun
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 The Chinese Menu (Zhōngguó càidān)
 ----------------------------------
 
 Please refer to [readings]({{< baseurl >}}/pages/readings) for the text.
 
-| PARTS | TITLES |
-| --- | --- |
-| {{< td-colspan 2 >}}**Part I: Preliminaries**{{< /td-colspan >}} ||
-| 1 | Types of Chinese Food |
-| 2 | The Names of Dishes |
-| 3 | Some Specialized Menu Items |
-| 4 | The 8 Chiense Cuisines (bā ge càixì) |
-| 5 | Methods of Cooking (pēngtiáo fàngfă) |
-| 6 | Spices and Seasonings (zuóliào) |
-| 7 | Ways of Cutting (qiēfă) |
-| 8 | Tools (gōngjù), with Example Sentences |
-| 9 | Usage (shuōfă) |
-| {{< td-colspan 2 >}}**Part II: Dialogue in a Restaurant**{{< /td-colspan >}} ||
-| 1 | Character Version |
-| 2 | Pinyin Version |
-| {{< td-colspan 2 >}}**Part III: Sample menu items**{{< /td-colspan >}} ||
-| 1 | Lěnghūnlèi = lěngcàilèi "(cold) appetizers" |
-| 2 | Hăixiānlèi "fresh seafood" |
-| 3 | Bàochăolèi "quick-stirfried" |
-| 4 | Ròulèi "meat \[pork\]" |
-| 5 | Yóuzhálèi "oil-fried" |
-| 6 | Jīyālèi "chicken and duck" |
-| 7 | Shūcàilèi / sùcàilèi "vegetable dishes; vegetarian dishes" |
-| 8 | Shāguō "earthenware pot" |
-| 9 | Huŏguō "(fire-pot) hotpot; fondue" |
-| 10 | Tānglèi "soups" |
-| 11 | Miànlèi, often divided into tāngmiàn "noodle soup" and lāomiàn "(ladle out-noodles) without soup" |
-| 12 | Zhǔshílèi "main-food-type = rice dishes", not usually eaten alone in China |
-| 13 | Diănxīnlèi, i.e. Cantonese "dimsum", as well as light fare from other regions |
-| 14 | Tiándiănlèi "desserts; sweets"
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PARTS
+{{< thclose >}}
+{{< thopen >}}
+TITLES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Part I: Preliminaries**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Types of Chinese Food
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+The Names of Dishes
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Some Specialized Menu Items
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+The 8 Chiense Cuisines (bā ge càixì)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Methods of Cooking (pēngtiáo fàngfă)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Spices and Seasonings (zuóliào)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Ways of Cutting (qiēfă)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Tools (gōngjù), with Example Sentences
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Usage (shuōfă)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Part II: Dialogue in a Restaurant**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Character Version
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Pinyin Version
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Part III: Sample menu items**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Lěnghūnlèi = lěngcàilèi "(cold) appetizers"
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Hăixiānlèi "fresh seafood"
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Bàochăolèi "quick-stirfried"
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Ròulèi "meat \[pork\]"
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Yóuzhálèi "oil-fried"
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Jīyālèi "chicken and duck"
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Shūcàilèi / sùcàilèi "vegetable dishes; vegetarian dishes"
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Shāguō "earthenware pot"
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Huŏguō "(fire-pot) hotpot; fondue"
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Tānglèi "soups"
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Miànlèi, often divided into tāngmiàn "noodle soup" and lāomiàn "(ladle out-noodles) without soup"
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Zhǔshílèi "main-food-type = rice dishes", not usually eaten alone in China
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Diănxīnlèi, i.e. Cantonese "dimsum", as well as light fare from other regions
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Tiándiănlèi "desserts; sweets"
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
