@@ -4,7 +4,7 @@ title: Assignments
 uid: 9fc40ec1-661d-23c2-d224-0eff226bc4f9
 ---
 
-This section features the [daily assignments](#Daily_Assignments) for the course. All the assignments rely heavily on texts available in [readings]({{< baseurl >}}/pages/readings) and audio files available in [study materials]({{< baseurl >}}/pages/study-materials). For Part 1, review materials from Chinese III can be found in [readings]({{< baseurl >}}/pages/readings), but more comprehensively at [21G.103](/courses/21g-103-chinese-iii-regular-fall-2005/) (the Chinese III site).
+This section features the [daily assignments](#Daily_Assignments) for the course. All the assignments rely heavily on texts available in [readings]({{< baseurl >}}/pages/readings) and audio files available in [study materials]({{< baseurl >}}/pages/study-materials). For Part 1, review materials from Chinese III can be found in [readings]({{< baseurl >}}/pages/readings), but more comprehensively at [21G.103](/courses/21g-103-chinese-iii-regular-fall-2005) (the Chinese III site).
 
 Overview
 --------
